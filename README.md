@@ -37,4 +37,5 @@ A Vollmed é uma aplicação projetada para otimizar a gestão de clínicas méd
 ## 🚀 Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/vollmed.git
+   git clone https://github.com/winiciosdev/VollMed-Api.git
+
